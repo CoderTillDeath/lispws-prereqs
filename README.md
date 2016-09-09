@@ -8,6 +8,7 @@ So, there will be 3 lispy languages that I will be referring to throughout the c
 * Clojure - The new kid around the block. This lisp came out in 2008, and has been a very successful language since it has came out. It has been rocking the functional programming world, known for its tenacious ability to grind through data. I would compare it to MatLab or R in terms of its goals, and its STM system is also really good. 
 * MIT-Scheme - An academic language that was used to teach first year undergraduate students at MIT how to program. Strange considering that, at the time, more popular languages consisted of things like Pascal and Fortran. This implementation of lisp is known particularly for its elegance.
 * Common Lisp - A decendent of the original Lisp, Common Lisp was published as an ANSI standard whose goal was to standardize the use of Lisp. During the time before Common Lisp, there were many implementations of Lisp since it was so easy to extend. Common Lisp came out to put everyone on the same platform, and thus, was a huge language that tried to incorporate as many features as possible. This makes it a bit of a clunky language, but it is deadly powerful, with its macro system that has been unrivaled since its inception. 
+
 ## MIT-Scheme
 ## Common Lisp
 ## Clojure
