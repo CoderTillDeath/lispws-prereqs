@@ -6,7 +6,7 @@ So, we will be installing 3 things. You may choose to install all of them, or on
 ## Lisps
 So, there will be 3 lispy languages that I will be referring to throughout the course of these workshops. 
 * Common Lisp - A descendant of the original Lisp, Common Lisp is definitely one of the most powerful languages one might ever run across. “If you don’t mind that your language is a bit **ugly**, due to a lot of pragmatic compromises,” then this is the language for you. It is deadly **powerful**, with its **macro system** that has been unrivaled since its inception. 
-* MIT-Scheme - An academic language that was used to teach first year undergraduate students at MIT how to program. This language is **elegant**.
+* MIT-Scheme - An academic language that was used to teach first year undergraduate students at MIT how to program. This language is **elegant**. I would compare it to Python and **Ruby**, where people sit around and contemplate the **beauty** of their code, and occasionally writing an academic paper or two.
 * Clojure - The new kid around the block. This lisp came out in **2008**, and has been a very successful language since it has came out. It has been rocking the functional programming world, known for its tenacious ability to **grind through data**. I would compare it to MatLab or R in terms of its goals, and its **STM** system is also really good. It is currently used by a few large companies like Amazon, eBay, Facebook, and even Walmart for data processing and web programming.
 
 ## Installation
